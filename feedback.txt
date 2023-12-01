@@ -1,0 +1,5 @@
+User input was not bad and it went pretty smoothly. After the items have been input into the program there was not output to show that my list actually succeded. I am sure with more time the program
+could be refined to deliver a better user experience. This would be a good protype to show case what the application would look like.
+
+Harris Naseh(harrin24)
+Claire Holmes (ceholmes)
